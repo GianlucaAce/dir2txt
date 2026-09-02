@@ -1,0 +1,7 @@
+Dir2txt/ 
+--------------------------------------------------
+├── Example/
+│   └── file_in_this_dir.txt
+├── directory_tree.txt
+├── README.md
+└── tree_generator.py
